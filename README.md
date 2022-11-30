@@ -5,10 +5,7 @@ Symfony project 5.4
 
 # Installation
 
-* Git clone
-``` bash
-$ git clone https://github.com/kailashkds/site-scrapper-symfony.git
-```
+
   * **NOTE**
     Before moving further we need to have docker and docker-compose installed on your pc. Kindly Google for it.
 
